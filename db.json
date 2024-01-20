@@ -1,173 +1,39 @@
 {
-  "app": {
-    "search": [
-      {
-        "uuid": "1",
-        "type": "Type 1",
-        "label": "Label 1",
-        "icon": "bi bi-info",
-        "image": "image-1.jpg"
-      },
-      {
-        "uuid": "2",
-        "type": "Type 2",
-        "label": "Label 2",
-        "icon": "bi bi-airplane-engines",
-        "image": "image-2.jpg"
-      },
-      {
-        "uuid": "3",
-        "type": "Type 3",
-        "label": "Label 3",
-        "icon": "bi bi bi-backpack3",
-        "image": "image-3.jpg"
-      },
-      {
-        "uuid": "4",
-        "type": "Type 4",
-        "label": "Label 4",
-        "icon": "bi bi-bicycle",
-        "image": "image-4.jpg"
-      },
-      {
-        "uuid": "5",
-        "type": "Type 5",
-        "label": "Label 5",
-        "icon": "bi bi-box2",
-        "image": "image-5.jpg"
-      },
-      {
-        "uuid": "6",
-        "type": "Type 6",
-        "label": "Label 6",
-        "icon": "bootstrap-icon-6",
-        "image": "image-6.jpg"
-      },
-      {
-        "uuid": "7",
-        "type": "Type 7",
-        "label": "Label 7",
-        "icon": "bi bi-braces",
-        "image": "image-7.jpg"
-      },
-      {
-        "uuid": "8",
-        "type": "Type 8",
-        "label": "Label 8",
-        "icon": "bi bi-browser-edge",
-        "image": "image-8.jpg"
-      },
-      {
-        "uuid": "9",
-        "type": "Type 9",
-        "label": "Label 9",
-        "icon": "bi bi-calendar-range",
-        "image": "image-9.jpg"
-      },
-      {
-        "uuid": "10",
-        "type": "Type 10",
-        "label": "Label 10",
-        "icon": "bi bi-award",
-        "image": "image-10.jpg"
-      }
-    ]
-  },
-  "collection": {
-    "all": [
-      {
-        "uuid": "1",
-        "color": "red",
-        "colorText": "white",
-        "title": "Item 1",
-        "image": {
-          "previews": [
-            "http://localhost:5173/img/1666570217101.jpg",
-            "http://localhost:5173/img/1666570217119.jpg",
-            "http://localhost:5173/img/1666570217133.jpg"
-          ],
-          "qty": 3
-        },
-        "tag": {
-          "qty": 2
-        },
-        "created": "2022-01-01T00:00:00Z"
-      },
-      {
-        "uuid": "2",
-        "color": "blue",
-        "colorText": "white",
-        "title": "Item 2",
-        "image": {
-          "previews": [
-            "http://localhost:5173/img/1666570217101.jpg",
-            "http://localhost:5173/img/1666570217119.jpg",
-            "http://localhost:5173/img/1666570217133.jpg"
-          ],
-          "qty": 3
-        },
-        "tag": {
-          "qty": 1
-        },
-        "created": "2022-01-02T00:00:00Z"
-      },
-      {
-        "uuid": "3",
-        "color": "green",
-        "colorText": "yellow",
-        "title": "Item 3",
-        "image": {
-          "previews": [
-            "http://localhost:5173/img/1666570217101.jpg",
-            "http://localhost:5173/img/1666570217119.jpg",
-            "http://localhost:5173/img/1666570217133.jpg"
-          ],
-          "qty": 3
-        },
-        "tag": {
-          "qty": 3
-        },
-        "created": "2022-01-03T00:00:00Z"
-      },
-      {
-        "uuid": "4",
-        "color": "orange",
-        "colorText": "black",
-        "title": "Item 4",
-        "image": {
-          "previews": [
-            "http://localhost:5173/img/1666570217101.jpg",
-            "http://localhost:5173/img/1666570217119.jpg",
-            "http://localhost:5173/img/1666570217133.jpg"
-          ],
-          "qty": 3
-        },
-        "tag": {
-          "qty": 0
-        },
-        "created": "2022-01-04T00:00:00Z"
-      },
-      {
-        "uuid": "5",
-        "color": "purple",
-        "colorText": "white",
-        "title": "Item 5",
-        "image": {
-          "previews": [
-            "http://localhost:5173/img/1666570217101.jpg",
-            "http://localhost:5173/img/1666570217119.jpg",
-            "http://localhost:5173/img/1666570217133.jpg"
-          ],
-          "qty": 3
-        },
-        "tag": {
-          "qty": 5
-        },
-        "created": "2022-01-05T00:00:00Z"
-      }
-    ],
-    "1": {
-      "uuid": "1",
+  "search": [
+    {
+      "idCollection": "1",
+      "type": "collection",
+      "label": "Item 1",
+      "image": "http://localhost:5173/img/1666570217101.jpg"
+    },
+    {
+      "idCollection": "2",
+      "type": "collection",
+      "label": "Item 2",
+      "image": "http://localhost:5173/img/1666570217119.jpg"
+    },
+    {
+      "idCollection": "3",
+      "type": "collection",
+      "label": "Item 3",
+      "image": "http://localhost:5173/img/1666570217133.jpg"
+    },
+    {
+      "idMenu": "4",
+      "type": "menu",
+      "label": "Menu 1",
+      "icon": "bi bi-bicycle"
+    },
+    {
+      "idMenu": "5",
+      "type": "menu",
+      "label": "Menu 2",
+      "icon": "bi bi-box2"
+    }
+  ],
+  "collection": [
+    {
+      "id": "1",
       "color": "red",
       "colorText": "white",
       "title": "Item 1",
@@ -184,8 +50,8 @@
       },
       "created": "2022-01-01T00:00:00Z"
     },
-    "2": {
-      "uuid": "2",
+    {
+      "id": "2",
       "color": "blue",
       "colorText": "white",
       "title": "Item 2",
@@ -202,8 +68,8 @@
       },
       "created": "2022-01-02T00:00:00Z"
     },
-    "3": {
-      "uuid": "3",
+    {
+      "id": "3",
       "color": "green",
       "colorText": "yellow",
       "title": "Item 3",
@@ -220,8 +86,8 @@
       },
       "created": "2022-01-03T00:00:00Z"
     },
-    "4": {
-      "uuid": "4",
+    {
+      "id": "4",
       "color": "orange",
       "colorText": "black",
       "title": "Item 4",
@@ -238,8 +104,8 @@
       },
       "created": "2022-01-04T00:00:00Z"
     },
-    "5": {
-      "uuid": "5",
+    {
+      "id": "5",
       "color": "purple",
       "colorText": "white",
       "title": "Item 5",
@@ -256,5 +122,5 @@
       },
       "created": "2022-01-05T00:00:00Z"
     }
-  }
+  ]
 }
