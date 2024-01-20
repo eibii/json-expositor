@@ -1,14 +1,77 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  "app": {
+    "search": [
+  {
+    "uuid": "1",
+    "type": "Type 1",
+    "label": "Label 1",
+    "icon": "bi bi-info",
+    "image": "image-1.jpg"
+  },
+  {
+    "uuid": "2",
+    "type": "Type 2",
+    "label": "Label 2",
+    "icon": "bi bi-airplane-engines",
+    "image": "image-2.jpg"
+  },
+  {
+    "uuid": "3",
+    "type": "Type 3",
+    "label": "Label 3",
+    "icon": "bi bi bi-backpack3",
+    "image": "image-3.jpg"
+  },
+  {
+    "uuid": "4",
+    "type": "Type 4",
+    "label": "Label 4",
+    "icon": "bi bi-bicycle",
+    "image": "image-4.jpg"
+  },
+  {
+    "uuid": "5",
+    "type": "Type 5",
+    "label": "Label 5",
+    "icon": "bi bi-box2",
+    "image": "image-5.jpg"
+  },
+  {
+    "uuid": "6",
+    "type": "Type 6",
+    "label": "Label 6",
+    "icon": "bootstrap-icon-6",
+    "image": "image-6.jpg"
+  },
+  {
+    "uuid": "7",
+    "type": "Type 7",
+    "label": "Label 7",
+    "icon": "bi bi-braces",
+    "image": "image-7.jpg"
+  },
+  {
+    "uuid": "8",
+    "type": "Type 8",
+    "label": "Label 8",
+    "icon": "bi bi-browser-edge",
+    "image": "image-8.jpg"
+  },
+  {
+    "uuid": "9",
+    "type": "Type 9",
+    "label": "Label 9",
+    "icon": "bi bi-calendar-range",
+    "image": "image-9.jpg"
+  },
+  {
+    "uuid": "10",
+    "type": "Type 10",
+    "label": "Label 10",
+    "icon": "bi bi-award",
+    "image": "image-10.jpg"
+  }
+]
+
   }
 }
