@@ -72,5 +72,189 @@
         "image": "image-10.jpg"
       }
     ]
+  },
+  "collection": {
+    "all": [
+      {
+        "uuid": "1",
+        "color": "red",
+        "colorText": "white",
+        "title": "Item 1",
+        "image": {
+          "previews": [
+            "http://localhost:5173/img/1666570217101.jpg",
+            "http://localhost:5173/img/1666570217119.jpg",
+            "http://localhost:5173/img/1666570217133.jpg"
+          ],
+          "qty": 3
+        },
+        "tag": {
+          "qty": 2
+        },
+        "created": "2022-01-01T00:00:00Z"
+      },
+      {
+        "uuid": "2",
+        "color": "blue",
+        "colorText": "white",
+        "title": "Item 2",
+        "image": {
+          "previews": [
+            "http://localhost:5173/img/1666570217101.jpg",
+            "http://localhost:5173/img/1666570217119.jpg",
+            "http://localhost:5173/img/1666570217133.jpg"
+          ],
+          "qty": 3
+        },
+        "tag": {
+          "qty": 1
+        },
+        "created": "2022-01-02T00:00:00Z"
+      },
+      {
+        "uuid": "3",
+        "color": "green",
+        "colorText": "yellow",
+        "title": "Item 3",
+        "image": {
+          "previews": [
+            "http://localhost:5173/img/1666570217101.jpg",
+            "http://localhost:5173/img/1666570217119.jpg",
+            "http://localhost:5173/img/1666570217133.jpg"
+          ],
+          "qty": 3
+        },
+        "tag": {
+          "qty": 3
+        },
+        "created": "2022-01-03T00:00:00Z"
+      },
+      {
+        "uuid": "4",
+        "color": "orange",
+        "colorText": "black",
+        "title": "Item 4",
+        "image": {
+          "previews": [
+            "http://localhost:5173/img/1666570217101.jpg",
+            "http://localhost:5173/img/1666570217119.jpg",
+            "http://localhost:5173/img/1666570217133.jpg"
+          ],
+          "qty": 3
+        },
+        "tag": {
+          "qty": 0
+        },
+        "created": "2022-01-04T00:00:00Z"
+      },
+      {
+        "uuid": "5",
+        "color": "purple",
+        "colorText": "white",
+        "title": "Item 5",
+        "image": {
+          "previews": [
+            "http://localhost:5173/img/1666570217101.jpg",
+            "http://localhost:5173/img/1666570217119.jpg",
+            "http://localhost:5173/img/1666570217133.jpg"
+          ],
+          "qty": 3
+        },
+        "tag": {
+          "qty": 5
+        },
+        "created": "2022-01-05T00:00:00Z"
+      }
+    ],
+    "1": {
+      "uuid": "1",
+      "color": "red",
+      "colorText": "white",
+      "title": "Item 1",
+      "image": {
+        "previews": [
+          "http://localhost:5173/img/1666570217101.jpg",
+          "http://localhost:5173/img/1666570217119.jpg",
+          "http://localhost:5173/img/1666570217133.jpg"
+        ],
+        "qty": 3
+      },
+      "tag": {
+        "qty": 2
+      },
+      "created": "2022-01-01T00:00:00Z"
+    },
+    "2": {
+      "uuid": "2",
+      "color": "blue",
+      "colorText": "white",
+      "title": "Item 2",
+      "image": {
+        "previews": [
+          "http://localhost:5173/img/1666570217101.jpg",
+          "http://localhost:5173/img/1666570217119.jpg",
+          "http://localhost:5173/img/1666570217133.jpg"
+        ],
+        "qty": 3
+      },
+      "tag": {
+        "qty": 1
+      },
+      "created": "2022-01-02T00:00:00Z"
+    },
+    "3": {
+      "uuid": "3",
+      "color": "green",
+      "colorText": "yellow",
+      "title": "Item 3",
+      "image": {
+        "previews": [
+          "http://localhost:5173/img/1666570217101.jpg",
+          "http://localhost:5173/img/1666570217119.jpg",
+          "http://localhost:5173/img/1666570217133.jpg"
+        ],
+        "qty": 3
+      },
+      "tag": {
+        "qty": 3
+      },
+      "created": "2022-01-03T00:00:00Z"
+    },
+    "4": {
+      "uuid": "4",
+      "color": "orange",
+      "colorText": "black",
+      "title": "Item 4",
+      "image": {
+        "previews": [
+          "http://localhost:5173/img/1666570217101.jpg",
+          "http://localhost:5173/img/1666570217119.jpg",
+          "http://localhost:5173/img/1666570217133.jpg"
+        ],
+        "qty": 3
+      },
+      "tag": {
+        "qty": 0
+      },
+      "created": "2022-01-04T00:00:00Z"
+    },
+    "5": {
+      "uuid": "5",
+      "color": "purple",
+      "colorText": "white",
+      "title": "Item 5",
+      "image": {
+        "previews": [
+          "http://localhost:5173/img/1666570217101.jpg",
+          "http://localhost:5173/img/1666570217119.jpg",
+          "http://localhost:5173/img/1666570217133.jpg"
+        ],
+        "qty": 3
+      },
+      "tag": {
+        "qty": 5
+      },
+      "created": "2022-01-05T00:00:00Z"
+    }
   }
 }
