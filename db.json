@@ -48,7 +48,7 @@
       "tag": {
         "qty": 2
       },
-      "created": "2022-01-01T00:00:00Z"
+      "createdAt": "2022-01-01T00:00:00Z"
     },
     {
       "id": "2",
@@ -66,7 +66,7 @@
       "tag": {
         "qty": 1
       },
-      "created": "2022-01-02T00:00:00Z"
+      "createdAt": "2022-01-02T00:00:00Z"
     },
     {
       "id": "3",
@@ -84,7 +84,7 @@
       "tag": {
         "qty": 3
       },
-      "created": "2022-01-03T00:00:00Z"
+      "createdAt": "2022-01-03T00:00:00Z"
     },
     {
       "id": "4",
@@ -102,7 +102,7 @@
       "tag": {
         "qty": 0
       },
-      "created": "2022-01-04T00:00:00Z"
+      "createdAt": "2022-01-04T00:00:00Z"
     },
     {
       "id": "5",
@@ -120,7 +120,7 @@
       "tag": {
         "qty": 5
       },
-      "created": "2022-01-05T00:00:00Z"
+      "createdAt": "2022-01-05T00:00:00Z"
     }
   ],
   "collection": [
@@ -139,7 +139,7 @@
           "label": "Tag 2"
         }
       ],
-      "created": "2022-01-01T00:00:00Z"
+      "createdAt": "2022-01-01T00:00:00Z"
     },
     {
       "id": "2",
@@ -152,7 +152,7 @@
           "label": "Tag 1"
         }
       ],
-      "created": "2022-01-02T00:00:00Z"
+      "createdAt": "2022-01-02T00:00:00Z"
     },
     {
       "id": "3",
@@ -173,7 +173,7 @@
           "label": "Tag 3"
         }
       ],
-      "created": "2022-01-03T00:00:00Z"
+      "createdAt": "2022-01-03T00:00:00Z"
     },
     {
       "id": "4",
@@ -181,7 +181,7 @@
       "name": "Item 4",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nisl.",
       "tags": [],
-      "created": "2022-01-04T00:00:00Z"
+      "createdAt": "2022-01-04T00:00:00Z"
     },
     {
       "id": "5",
@@ -210,34 +210,34 @@
           "label": "Tag 5"
         }
       ],
-      "created": "2022-01-05T00:00:00Z"
+      "createdAt": "2022-01-05T00:00:00Z"
     }
   ],
   "tags": [
     {
       "id": "1",
       "label": "Tag 1",
-      "created": "2022-01-01T00:00:00Z"
+      "createdAt": "2022-01-01T00:00:00Z"
     },
     {
       "id": "2",
       "label": "Tag 2",
-      "created": "2022-01-02T00:00:00Z"
+      "createdAt": "2022-01-02T00:00:00Z"
     },
     {
       "id": "3",
       "label": "Tag 3",
-      "created": "2022-01-03T00:00:00Z"
+      "createdAt": "2022-01-03T00:00:00Z"
     },
     {
       "id": "4",
       "label": "Tag 4",
-      "created": "2022-01-04T00:00:00Z"
+      "createdAt": "2022-01-04T00:00:00Z"
     },
     {
       "id": "5",
       "label": "Tag 5",
-      "created": "2022-01-05T00:00:00Z"
+      "createdAt": "2022-01-05T00:00:00Z"
     }
   ]
 }
