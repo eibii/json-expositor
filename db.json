@@ -216,23 +216,28 @@
   "tags": [
     {
       "id": "1",
-      "label": "Tag 1"
+      "label": "Tag 1",
+      "created": "2022-01-01T00:00:00Z"
     },
     {
       "id": "2",
-      "label": "Tag 2"
+      "label": "Tag 2",
+      "created": "2022-01-02T00:00:00Z"
     },
     {
       "id": "3",
-      "label": "Tag 3"
+      "label": "Tag 3",
+      "created": "2022-01-03T00:00:00Z"
     },
     {
       "id": "4",
-      "label": "Tag 4"
+      "label": "Tag 4",
+      "created": "2022-01-04T00:00:00Z"
     },
     {
       "id": "5",
-      "label": "Tag 5"
+      "label": "Tag 5",
+      "created": "2022-01-05T00:00:00Z"
     }
   ]
 }
