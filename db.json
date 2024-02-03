@@ -131,6 +131,7 @@
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, vitae aliquam nisl nunc eu nisl.",
       "tags": ["Ford", "x12hc", "2020"],
       "createdAt": "2022-01-01T00:00:00Z",
+      "updateAt": "2022-01-01T00:00:00Z",
       "collectionThumb": "http://localhost:5173/img/1666570217101.jpg",
       "thumb": "http://localhost:5173/img/1666570217101.jpg",
       "gallery": [
